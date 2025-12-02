@@ -1,7 +1,7 @@
 //cotação de valores diario
-const USD = 4.87
-const EUR = 5.32
-const GBP = 6.08
+const USD = 5.33
+const EUR = 6.20
+const GBP = 7.04
 
 // Obtendo os elementos do formulário
 const form = document.querySelector("form")
